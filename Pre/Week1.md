@@ -68,9 +68,9 @@ A code block B is consisted of its code part and comment part $B: \{B_{\mathrm{c
 
 # Clone Detection Method
 
-接下来说下[Large-Scale Code Clone Detection](https://escholarship.org/uc/item/45r2308g)中的方法, 它是基于token的:
+接下来介绍[Large-Scale Code Clone Detection](https://escholarship.org/uc/item/45r2308g)中的方法, 它是基于token的:
 
-![image-20230213212216210](./assets/Large-Scale Code Clone Detection.png)
+![Large-Scale Code Clone Detection](./assets/Large-Scale Code Clone Detection.png)
 
 定义:
 
